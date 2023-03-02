@@ -5,3 +5,6 @@ A code that generates a two-dimensional array of size n x n (where n is an integ
 
 2nd exercise:
 A code that determines whether the nth Fibonacci number is prime.
+
+3rd exercise:
+A code that reads a text file and preprocesses the text by removing all non-alphabetic characters and converting the remaining text to lowercase. It then generates triads of adjacent words and uses them to create a new text by randomly selecting the next word based on the previous two words. The generated text is limited to 200 words and starts with a randomly selected triad.
